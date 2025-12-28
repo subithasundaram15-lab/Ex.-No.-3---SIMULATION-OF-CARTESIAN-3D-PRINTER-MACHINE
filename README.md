@@ -1,5 +1,5 @@
 # Ex. No.  - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
-### DATE: 
+### DATE: 18/12/2025
 
 ## AIM:
 ### To simulate the construction of cartesian 3D printer and to get in-depth knowledge of mechatronics of cartesian 3D printers.
@@ -59,9 +59,14 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 ## Output:
+<img width="506" height="592" alt="image" src="https://github.com/user-attachments/assets/09eed7bf-cb40-442c-808d-8379ed36b78b" />
+<img width="503" height="561" alt="image" src="https://github.com/user-attachments/assets/45df5e2c-17f8-42f0-bf84-25a0007f898a" />
+<img width="508" height="324" alt="image" src="https://github.com/user-attachments/assets/0cf9e882-b881-42ef-ab18-7b3803bef64a" />
+<img width="508" height="699" alt="image" src="https://github.com/user-attachments/assets/aed83c0d-6fe1-42e5-a9ba-695b90f2a2a4" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/57cac80d-d6ae-4f65-ab70-1a751d1eeae4" />
 
-### Name: 
-### Register Number:
+### Name: SUBITHA S
+### Register Number: 25014966
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
